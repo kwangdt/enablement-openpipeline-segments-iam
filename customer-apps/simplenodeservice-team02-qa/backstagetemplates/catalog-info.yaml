@@ -39,7 +39,7 @@ metadata:
 spec:
   type: business-unit
   profile:
-    displayName: Team 03
+    displayName: Team 02
     email: team02@dynatrace.training
     picture: https://example.com/staff/jenny-with-party-hat.jpeg
   parent: applications
